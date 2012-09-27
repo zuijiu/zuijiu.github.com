@@ -232,7 +232,7 @@ p {
 a:link { 
     font-weight: bold; 
     text-decoration: none; 
-    color: #A34D32;
+    color: #923032;
 }
 
 a:visited { 
@@ -270,12 +270,12 @@ li {
     position: fixed;
     right: 0em;
     top: 0em;
-    background: white;
+    background: #998;
     -webkit-box-shadow: 0 0 1em #777777;
     -moz-box-shadow: 0 0 1em #777777;
     -webkit-border-bottom-left-radius: 5px;
     -moz-border-radius-bottomleft: 5px;
-    text-align: right;
+    text-align: left;
     /* ensure doesn't flow off the screen when expanded */
     max-height: 80%;
     overflow: auto; 

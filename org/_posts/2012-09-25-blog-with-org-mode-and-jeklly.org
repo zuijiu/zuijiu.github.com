@@ -1,7 +1,7 @@
-#+TITLE:     2012-09-23-another-test.org
+#+TITLE:     2012-09-25-blog-with-org-mode-and-jeklly.org
 #+AUTHOR:    sgbn
 #+EMAIL:     sgbn@dsp
-#+DATE:      2012-09-23 日
+#+DATE:      2012-09-25 二
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  en
@@ -13,9 +13,13 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-* test
-this is another test issue...
-** testt
-*** testtt
-* hello
-** hi
+#+BEGIN_HTML
+---
+layout: post
+title: Bloging with org-mode and jeklly
+excerpt: This is a simple explanation about how this site formed.
+---
+#+END_HTML
+* org-mode
+* jeklly
+* github pages

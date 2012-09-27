@@ -14,7 +14,10 @@ title: sgbn's little cabin
 #+END_HTML
 
 * About me
-not finished yet!
+  I got this name Sagebane form a pop novel <A song of ice and fire>,
+  there is a lord named Whorebane Umber, it means he is a famous whore
+  killer. though I found bane something is funny, Why not bane
+  something myself? So I chosed the sage to bane..
 
 * related posts
 #+BEGIN_HTML
