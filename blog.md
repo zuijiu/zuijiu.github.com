@@ -3,9 +3,7 @@ layout: default
 title: sgbn's blog posts
 ---
 
-  <div id="title">
-<h1><a href="/blog.html">Blog</a></h1>
-</div>
+# Blog
 
 <ul>
 {% for post in site.posts %}
